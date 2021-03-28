@@ -1,3 +1,3 @@
 # BHP
 
-Python scripts from Black Hat Python
+Python scripts from Black Hat Python Book
